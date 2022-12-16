@@ -1,0 +1,49 @@
+[{
+     "id":"1",
+     "sku":"2",
+     "name":"Electric Lighter, Candle Lighter",
+     "desc":"Windproof USB Rechargeable Electronic Plasma Arc Lighter with Safety LockCamping, BBQ, Grill, Fireplace (Matte Black)"
+    },
+    {
+      "id":"2",
+     "sku":"3",
+     "name":"Charging Station for Multiple Devices",
+     "desc":"Equipped for iPhone iPad Android Tablet Watch and Other Electronics(6 Cables Included)"
+
+    },
+     {"id":"3",
+     "sku":"4",
+     "name":"Feeke Solar-Charger-Power-Bank - 36800mAh",
+     "desc":"Fast Charger Dual USB Port Built-in Led Flashlight and Compass for All Cell Phone and Electronic Devices(Orange color)"
+
+    },
+     {"id":"4",
+     "sku":"5",
+     "name":"Bluetooth Beanie",
+     "desc":"V5.0 Bluetooth Hat, Wireless Earphone Beanie Headphones, with HD Stereo Speakers Built-in Microphone, Mens Gifts, Christmas Electronic Gifts for Men/Women Black"
+
+    },
+     {"id":"5",
+     "sku":"6",
+     "name":"JBL FLIP 5",
+     "desc":"Waterproof Portable Bluetooth Speaker, Black"
+
+    },
+     {"id":"6",
+     "sku":"7",
+     "name":"Echo (4th Gen)",
+     "desc":"With premium sound, smart home hub, and Alexa | Charcoal"
+
+    },
+     {"id":"7",
+     "sku":"8",
+     "name":"Apple AirPods (2nd Generation)",
+     "desc":"Wireless Earbuds with Lightning Charging Case Included. Over 24 Hours of Battery Life, Effortless Setup. Bluetooth Headphones for iPhone"
+    },
+  {"id":"8",
+     "sku":"9",
+     "name":"Air Fryer",
+     "desc":"9-in-1 Airfryer Compact Oilless Small Oven, Dishwasher-Safe, 450℉ freidora de aire"
+    }
+
+]
